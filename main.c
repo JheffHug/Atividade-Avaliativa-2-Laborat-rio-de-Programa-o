@@ -1,3 +1,11 @@
+/******************************************************************************
+
+Grupo:
+
+Jheferson Hugo Farias da Silva - Matrícula: 2023046579
+Allexis Ryan Campos Silva - Matrícula: 20240015408
+
+*******************************************************************************/
 #include <stdio.h>
 #include <string.h>
 
